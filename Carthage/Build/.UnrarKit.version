@@ -1,0 +1,31 @@
+{
+  "iOS" : [
+    {
+      "hash" : "dace0e4a3c7a7d3b89033924d863adf65eed5ec7ab497983ef1f3ed80f502e2d",
+      "container" : "UnrarKit.xcframework",
+      "name" : "UnrarKit",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "5db59f4ec0ba2c3bdff55351269110f3a146b872504e539915839d0dd05e6b22",
+      "container" : "UnrarKit.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator",
+      "name" : "UnrarKit"
+    }
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+    {
+      "name" : "UnrarKit",
+      "hash" : "57fd1ae039fc09cbda4c32d31f5782a98042844bda7316487d8058e7c7a030e5",
+      "identifier" : "macos-arm64_x86_64",
+      "container" : "UnrarKit.xcframework"
+    }
+  ],
+  "commitish" : "2093b23dc20963bf51aaf8d289a19b369db6247a",
+  "watchOS" : [
+
+  ]
+}
