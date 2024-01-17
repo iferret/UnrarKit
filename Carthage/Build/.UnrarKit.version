@@ -1,31 +1,31 @@
 {
+  "tvOS" : [
+
+  ],
   "iOS" : [
     {
-      "hash" : "dace0e4a3c7a7d3b89033924d863adf65eed5ec7ab497983ef1f3ed80f502e2d",
-      "container" : "UnrarKit.xcframework",
+      "identifier" : "ios-arm64",
+      "hash" : "a1c8c0d48e1e1ac9a0d1e9667fcfc18ddacf435cf37ffe4efd40daa61e736bf7",
       "name" : "UnrarKit",
-      "identifier" : "ios-arm64"
+      "container" : "UnrarKit.xcframework"
     },
     {
-      "hash" : "5db59f4ec0ba2c3bdff55351269110f3a146b872504e539915839d0dd05e6b22",
-      "container" : "UnrarKit.xcframework",
       "identifier" : "ios-arm64_x86_64-simulator",
-      "name" : "UnrarKit"
+      "name" : "UnrarKit",
+      "container" : "UnrarKit.xcframework",
+      "hash" : "ec46e14d1832d3288a722503abf8a3638943ea938d314813cd5035e6dc313136"
     }
   ],
-  "tvOS" : [
+  "watchOS" : [
 
   ],
   "Mac" : [
     {
-      "name" : "UnrarKit",
-      "hash" : "57fd1ae039fc09cbda4c32d31f5782a98042844bda7316487d8058e7c7a030e5",
       "identifier" : "macos-arm64_x86_64",
+      "hash" : "40799326e432e18fc573fc0503f1941185563e37c6c816c0618694746d870d0b",
+      "name" : "UnrarKit",
       "container" : "UnrarKit.xcframework"
     }
   ],
-  "commitish" : "2093b23dc20963bf51aaf8d289a19b369db6247a",
-  "watchOS" : [
-
-  ]
+  "commitish" : "24a2fb06703a55033b0a51ec56c027ec8b8fd759"
 }
